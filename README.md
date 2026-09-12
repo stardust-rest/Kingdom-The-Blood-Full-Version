@@ -286,4 +286,4 @@ This repository serves as the official landing page for Kingdom: The Blood. The 
 **Get the most recent version of Kingdom: The Blood today!**
 
 ---
-**Last updated:** 2026-09-12 18:09:56 UTC
+**Last updated:** 2026-09-12 21:08:16 UTC
